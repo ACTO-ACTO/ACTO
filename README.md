@@ -10,8 +10,12 @@ Besides, we design a self-adaptive metric to measure the degree of label memoriz
 Finally, we propose utilizing the historical training states to foster the reliability and adaptivity of the selected and mined "clean" samples following our ACTO.
 Extensive experimental results on synthetic and real-world datasets demonstrate the effectiveness and superiority of our proposed method.
 
-# Pipeline
 
+# Pipeline
+The differences between existing symmetric co-training optimization strategies :
+![framework](Figure1.png)
+
+The overall framework of our proposed ACTO:
 ![framework](Figure.png)
 
 # Installation
