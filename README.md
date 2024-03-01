@@ -64,6 +64,10 @@ main_food101n.py --gpu 9  --warmup-epoch 5 --epoch 50 --batch-size 100 --lr 0.00
 ![framework](Table2.png)
 
 
-# Effects of different components in test accuracy (%) on CIFAR100N:
+# Results on Food101N:
 
 ![framework](Table3.png)
+
+# Effects of different modules on CIFAR100N and CIFAR80N under various noise conditions.:
+
+![framework](Table4.png)
