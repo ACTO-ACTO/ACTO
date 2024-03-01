@@ -60,7 +60,7 @@ Here is an example shell script to run ACTO on Food101N :
 main_food101n.py --gpu 9  --warmup-epoch 5 --epoch 50 --batch-size 100 --lr 0.0005 --lr1 0.001 --warmup-lr 0.001  --lr-decay cosine:5,5e-5,50 --opt sgd --dataset food101n
 ```
 
-# Results on Cifar100N:
+# Results on Cifar100N and Cifar80N:
 
 ![framework](Table1.png)
 
