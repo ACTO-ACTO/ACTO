@@ -13,9 +13,11 @@ Extensive experimental results on synthetic and real-world datasets demonstrate 
 
 # Pipeline
 The differences between existing symmetric co-training optimization strategies :
+
 ![framework](Figure1.png)
 
 The overall framework of our proposed ACTO:
+
 ![framework](Figure.png)
 
 # Installation
