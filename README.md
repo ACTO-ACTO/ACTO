@@ -12,7 +12,7 @@ Extensive experimental results on synthetic and real-world datasets demonstrate 
 
 # Pipeline
 
-![framework](figure.png)
+![framework](Figure.png)
 
 # Installation
 ```
